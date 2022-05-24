@@ -1,4 +1,4 @@
-class Problem {
+export default class Problem {
     //构造方法  实例化类自动调用
     constructor() {
         //获取保存按钮绑定点击事件
